@@ -17,25 +17,25 @@ const categories = [
   {
     title: 'Architectural',
     icon: Building2,
-    image: 'public/images/interior.jpg',
+    image: '/images/interior.jpg',
     description: 'Showcasing interiors with light, design, and detail',
   },
   {
     title: 'Fashion',
     icon: Shirt,
-    image: 'public/images/fashion.jpg',
+    image: '/images/fashion.jpg',
     description: 'Editorial and lifestyle fashion photography',
   },
   {
     title: 'Jewellery',
     icon: Gem,
-    image: 'public/images/jewellery.jpg',
+    image: '/images/jewellery.jpg',
     description: 'Luxury jewellery captured with precision and elegance',
   },
   {
     title: 'Product',
     icon: Package,
-    image: 'public/images/product.jpg',
+    image: '/images/product.jpg',
     description: 'Clean and impactful product visuals for brands',
   },
 ];
